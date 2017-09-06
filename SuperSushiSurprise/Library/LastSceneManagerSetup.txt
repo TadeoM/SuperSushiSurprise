@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Z:/IGMProfile/Documents/Source Control/Procedurally_Failed_Game/Assets/MainGame.unity
+  isLoaded: 1
+  isActive: 1
